@@ -1,1 +1,4 @@
-
+pycaret
+streamlit
+pandas
+numpy
